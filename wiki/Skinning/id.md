@@ -14,11 +14,11 @@ hampir tidak mungkin untuk dimainkan.
 List dari beberapa elemen membuat skin yang terbagi menjadi beberapa kategori:
 
 - [Tampilan membuat skin](/wiki/Skinning/Interface)
-- [membuat skin di osu!standard](/wiki/Skinning/osu!)
-- [membuat skin di osu!taiko](/wiki/Skinning/osu!taiko)
-- [membuat skin di osu!catch](/wiki/Skinning/osu!catch)
-- [membuat skin di osu!mania](/wiki/Skinning/osu!mania)
-- [membuat skin pada suara](/wiki/Skinning/Sounds)
+- [Membuat skin di osu!standard](/wiki/Skinning/osu!)
+- [Membuat skin di osu!taiko](/wiki/Skinning/osu!taiko)
+- [Membuat skin di osu!catch](/wiki/Skinning/osu!catch)
+- [Membuat skin di osu!mania](/wiki/Skinning/osu!mania)
+- [Membuat skin pada suara](/wiki/Skinning/Sounds)
 
 ## Lihat juga
 
