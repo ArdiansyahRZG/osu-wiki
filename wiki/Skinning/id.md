@@ -1,6 +1,6 @@
 # Membuat skin
 
-Membuat skin adalah salah satu fitur dari osu!. yang dimana skin tersebut pemain dapat membuat elemen skin tersendiri! skin bisa menjadi beberapa variasi yang dimana bertujuan untuk kesenangan, bertema, ataupun juga dapat menjadi skin yang
+Membuat skin adalah salah satu fitur dari osu!. Fitur ini digunakan pemain untuk membuat elemen skin tersendiri! Terdapat beberapa variasi dari skin seperti untuk kesenangan, bertemakan sesuatu, ataupun menjadi skin yang
 hampir tidak mungkin untuk dimainkan.
                                                        
 ## Skinning sets
