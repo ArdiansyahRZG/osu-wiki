@@ -24,6 +24,6 @@ List dari beberapa elemen membuat skin yang terbagi menjadi beberapa kategori:
 
 - [skin.ini](/wiki/Skinning/skin.ini)
 - [Sejarah membuat skin](/wiki/Skinning/History) - daftar dari skin dengan elemen lama
-- [Ringkasan](https://osu.ppy.sh/community/forums/topics/686664) - daftar dari skin yang telah lengkap
+- [Ringkasan](https://osu.ppy.sh/community/forums/topics/686664) - daftar dari skin yang telah selesai dibuat
 - [FAQ membuat skin](/wiki/Skinning/FAQ)
 - [Panduan dan threads penting](/wiki/Skinning/Guides_and_important_threads)
