@@ -7,11 +7,11 @@ hampir tidak mungkin untuk dimainkan.
 
 *Halaman utama: [Daftar set skin](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-**Hanya untuk beatmap,** jika skin beatmap kamu berisi elemen tunggal daftar yang ditetapkan pada Kriteria Ranking, Ini harus mengandung beberapa elemen yang lainya dalam membuat skin. Ini hanya berlaku untuk skins beatmap, tapi untuk beberapa pembuat skin mungkin dapat mempertimbangkan daftar itu juga.
+**Hanya untuk beatmap,** jika skin beatmap kamu berisi elemen tunggal daftar yang ditetapkan pada Ranking Criteria, Ini harus mengandung beberapa elemen yang lainya dalam membuat skin. Ini hanya berlaku untuk skins beatmap, tapi untuk beberapa pembuat skin mungkin dapat mempertimbangkan daftar itu juga.
                            
 ## Daftar elemen skin
 
-List dari beberapa elemen membuat skin yang terbagi menjadi beberapa kategori:
+Berikut merupakan daftar dari beberapa elemen dalam membuat skin yang terbagi menjadi beberapa kategori:
 
 - [Tampilan membuat skin](/wiki/Skinning/Interface)
 - [Membuat skin di osu!standard](/wiki/Skinning/osu!)
